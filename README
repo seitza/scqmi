@@ -1,0 +1,15 @@
+SCQMI INSTALLATION
+
+Linux and Mac OS X
+==================
+Simply copy the content of this package into the Fiji main folder.
+
+Windows 7
+========
+Copy the content of this package into the Fiji main folder and run register_imagej.bat.
+
+Other Versions of Windows
+=========================
+Proceed as with Windows 7 and try running SCQMI.
+In case of errors with MSER, contact the author of this Plugin for possible solutions.
+
